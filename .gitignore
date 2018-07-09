@@ -1,0 +1,14 @@
+*.tgz
+.DS_Store
+.idea/
+.netlify
+.vscode/
+/.changelog
+build
+lerna-debug.log
+my-app*
+node_modules/
+npm-debug.log*
+template/src/__tests__/__snapshots__/
+yarn-debug.log*
+yarn-error.log*
