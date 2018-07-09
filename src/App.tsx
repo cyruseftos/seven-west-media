@@ -40,7 +40,7 @@ export default class extends React.Component<{}, IProviderState> {
             <React.Fragment>
               <header>
                 <Logo>
-                  <span>The West Australia</span>
+                  <span>The West Australian</span>
                   <Link to="/">
                     <img src={logo} alt="The West Australian" />
                   </Link>
